@@ -1,0 +1,10 @@
+1:1 iustin 12344:1 titanic drama barca
+2:2 amalia 123:2 interstellar sf spatiu
+3:3 casiana 1234:3 avatar sf blu
+4:4 andeea 12344:4 frozen cartoon zapada
+5:5 tatiana 12344:5 no_game_no_life sf game
+6:6 vasile 1234124:6 edge_of_tomorrow sf alien
+7:1 iustin 12344:5 no_game_no_life sf game
+8:1 iustin 12344:2 interstellar sf spatiu
+9:1 iustin 12344:6 edge_of_tomorrow sf alien
+11:7 mihai 12344412:4 frozen cartoon zapada
